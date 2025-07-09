@@ -13,13 +13,15 @@
 | [CoinquyLife](https://github.com/minicla03/CoinquyLife) | App Android per la gestione della convivenza (turni, spese, messaggi, votazioni) | Java, Retrofit, AndroidSDK, OkHttp |
 | [Q-AmodelAI](https://github.com/minicla03/Q-AmodelAI) | Sistema di Question Answering multilingua su PDF usando LLM | Python, LangChain, Llama3, ChromaDB |
 | [SmartMobilityAnalysis](https://github.com/minicla03/SmartMobilityAnalysis) | Notebook per l’analisi della mobilità urbana: dataset, mappe e modelli | Python, Pandas, geopandas |
+| [JsonClock](https://github.com/minicla03/JsonClock) | Widget Android personalizzabile con orologio, data e festività da sorgente JSON | Kotlin, Retrofit, AlarmManager |
 
 ---
 
 ## 🛠️ Competenze Tecniche
 
 - **Linguaggi**: Python, Java, HTML/CSS/JS, Kotlin  
-- **Data Analysis / ML**: Pandas, NumPy, scikit-learn, Jupyter Notebook  
+- **Data Analysis / ML**: Pandas, NumPy, scikit-learn, Jupyter Notebook
+- **Sviluppo Android**: Android SDK, AppWidgetProvider, Retrofit, Coroutines, AlarmManager  
 - **AI & LLM**: LangChain, HuggingFace, ChromaDB, Llama3  
 - **Dev & Tools**: Git, GitHub, Linux, Tkinter, Spring Boot, MongoDB, SQL
 
