@@ -10,10 +10,10 @@
 
 | 📦 Progetto | 📄 Descrizione | 🧪 Tecnologie |
 |------------|----------------|---------------|
-| [CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE) | App per la gestione della convivenza (turni, spese, messaggi, votazioni) | HTML, JS |
+| [CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE) | WebApp per la gestione della convivenza (turni, spese, messaggi, votazioni) | HTML, JS, Java, Spring Boot, MongoDB |
+| [CoinquyLife}(https://github.com/minicla03/CoinquyLife) | App Android  per la gestione della convivenza (turni, spese, messaggi, votazioni) | Java, Retrofit, AndroidSDK, OkHttp |
 | [Q-AmodelAI](https://github.com/minicla03/Q-AmodelAI) | Sistema di Question Answering multilingua su PDF usando LLM | Python, LangChain, Llama3, ChromaDB |
 | [SmartMobilityAnalysis](https://github.com/minicla03/SmartMobilityAnalysis) | Notebook per l’analisi della mobilità urbana: dataset, mappe e modelli | Python, Pandas, geopandas |
-| [JavaAlgorithms](https://github.com/minicla03/JavaAlgorithms) | Implementazioni algoritmiche in Java (fork di TheAlgorithms) | Java |
 
 ---
 
