@@ -39,4 +39,4 @@
 
 ## 📫 Contatti
 
-- ✉️ Email: [claudio.mininno@example.com](mailto:mininnoclaudio@gmail.com)  
+- ✉️ Email: [mininnoclaudio@gmail.com](mailto:mininnoclaudio@gmail.com)  
