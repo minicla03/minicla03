@@ -1,8 +1,7 @@
 # 👋 Ciao, sono Claudio Mininno
 
 🎓 Studente di Ingegneria Informatica all'Unisannio
-💻 Appassionato di sviluppo software, algoritmi, smart mobility e applicazioni intelligenti  
-📍 Attualmente impegnato su progetti accademici e personali in ambito AI, data science e sviluppo mobile
+💻 Appassionato di sviluppo software, algoritmi, applicazioni intelligenti e analisi dei dati
 
 ---
 
