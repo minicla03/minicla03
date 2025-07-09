@@ -1,6 +1,7 @@
 # 👋 Ciao, sono Claudio Mininno
 
 🎓 Studente di Ingegneria Informatica all'Unisannio
+
 💻 Appassionato di sviluppo software, algoritmi, applicazioni intelligenti e analisi dei dati
 
 ---
@@ -10,7 +11,7 @@
 | 📦 Progetto | 📄 Descrizione | 🧪 Tecnologie |
 |------------|----------------|---------------|
 | [CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE) | WebApp per la gestione della convivenza (turni, spese, messaggi, votazioni) | HTML, JS, Java, Spring Boot, MongoDB |
-| [CoinquyLife}(https://github.com/minicla03/CoinquyLife) | App Android  per la gestione della convivenza (turni, spese, messaggi, votazioni) | Java, Retrofit, AndroidSDK, OkHttp |
+| [CoinquyLife](https://github.com/minicla03/CoinquyLife) | App Android  per la gestione della convivenza (turni, spese, messaggi, votazioni) | Java, Retrofit, AndroidSDK, OkHttp |
 | [Q-AmodelAI](https://github.com/minicla03/Q-AmodelAI) | Sistema di Question Answering multilingua su PDF usando LLM | Python, LangChain, Llama3, ChromaDB |
 | [SmartMobilityAnalysis](https://github.com/minicla03/SmartMobilityAnalysis) | Notebook per l’analisi della mobilità urbana: dataset, mappe e modelli | Python, Pandas, geopandas |
 
@@ -18,10 +19,10 @@
 
 ## 🛠️ Competenze Tecniche
 
-- **Linguaggi**: Python, Java, HTML/CSS/JS  
+- **Linguaggi**: Python, Java, HTML/CSS/JS, Kotlin 
 - **Data Analysis / ML**: Pandas, NumPy, scikit-learn, Jupyter Notebook  
 - **AI & LLM**: LangChain, HuggingFace, ChromaDB, Llama3  
-- **Dev & Tools**: Git, GitHub, Linux, Tkinter, Streamlit
+- **Dev & Tools**: Git, GitHub, Linux, Tkinter, Spring Boot, MongoDB, SQL
 
 ---
 
