@@ -41,7 +41,3 @@
 ## 📫 Contatti
 
 - ✉️ Email: [mininnoclaudio@gmail.com](mailto:mininnoclaudio@gmail.com)
-
----
-
-> *"La mente che si apre a una nuova idea non torna mai alla dimensione precedente."* – Albert Einstein
