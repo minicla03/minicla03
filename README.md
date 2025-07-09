@@ -1,39 +1,42 @@
-# 👋 Ciao, sono Claudio Mininno (minicla03)
+# 👋 Ciao, sono Claudio Mininno
 
-🎓 Studente di Ingegneria Informatica  
-💻 Appassionato di sviluppo software, algoritmi, smart mobility e app Android  
-📂 Repository principali: GitHub, CoinquyLifeSE, Q‑AmodelAI, SmartMobilityAnalysis
-
----
-
-## 🛠️ Progetti in vetrina
-
-- **CoinquyLifeSE / CoinquyLife**  
-  App per la gestione di case condivise: turni, spese, messaggi e sondaggi – sviluppata in HTML (CoinquyLifeSE) e Java :contentReference[oaicite:1]{index=1}
-
-- **Q‑AmodelAI**  
-  Bot/assistente per domande e risposte basato su modelli AI in Python :contentReference[oaicite:2]{index=2}
-
-- **SmartMobilityAnalysis**  
-  Analisi di mobilità urbana tramite Jupyter Notebook: dataset, visualizzazioni, modelli e PDF di approfondimento :contentReference[oaicite:3]{index=3}
-
-- **JavaAlgorithms**  
-  Raccolta di algoritmi implementati in Java – fork di TheAlgorithms/Java :contentReference[oaicite:4]{index=4}
+🎓 Studente di Ingegneria Informatica all'Unisannio
+💻 Appassionato di sviluppo software, algoritmi, smart mobility e applicazioni intelligenti  
+📍 Attualmente impegnato su progetti accademici e personali in ambito AI, data science e sviluppo mobile
 
 ---
 
-## 🧭 Competenze
+## 📌 Progetti in evidenza
 
-- **Linguaggi**: Java, Python, HTML  
-- **Data Analysis & ML**: Jupyter Notebook, Pandas, visualizzazione dati  
-- **Sviluppo mobile/web**: app Android (CoinquyLifeAndroid)  
-- **Algoritmi & Strutture**: approfonditi attraverso JavaAlgorithms
+| 📦 Progetto | 📄 Descrizione | 🧪 Tecnologie |
+|------------|----------------|---------------|
+| [CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE) | App per la gestione della convivenza (turni, spese, messaggi, votazioni) | HTML, JS |
+| [Q-AmodelAI](https://github.com/minicla03/Q-AmodelAI) | Sistema di Question Answering multilingua su PDF usando LLM | Python, LangChain, Llama3, ChromaDB |
+| [SmartMobilityAnalysis](https://github.com/minicla03/SmartMobilityAnalysis) | Notebook per l’analisi della mobilità urbana: dataset, mappe e modelli | Python, Pandas, geopandas |
+| [JavaAlgorithms](https://github.com/minicla03/JavaAlgorithms) | Implementazioni algoritmiche in Java (fork di TheAlgorithms) | Java |
+
+---
+
+## 🛠️ Competenze Tecniche
+
+- **Linguaggi**: Python, Java, HTML/CSS/JS  
+- **Data Analysis / ML**: Pandas, NumPy, scikit-learn, Jupyter Notebook  
+- **AI & LLM**: LangChain, HuggingFace, ChromaDB, Llama3  
+- **Dev & Tools**: Git, GitHub, Linux, Tkinter, Streamlit
 
 ---
 
 ## 📊 Statistiche GitHub
 
-Inserisci qui i badge (usando [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)):
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minicla03&show_icons=true&theme=default&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicla03&layout=compact&hide=html&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minicla03&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minicla03&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minicla03&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contatti
+
+- ✉️ Email: [claudio.mininno@example.com](mailto:mininnoclaudio@gmail.com)  
