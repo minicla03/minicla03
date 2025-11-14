@@ -11,7 +11,7 @@
 |------------|----------------|---------------|
 | [CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE) | WebApp per la gestione della convivenza (turni, spese, messaggi, votazioni) | HTML, JS, Java, Spring Boot, MongoDB |
 | [CoinquyLife](https://github.com/minicla03/CoinquyLife) | App Android per la gestione della convivenza (turni, spese, messaggi, votazioni) | Java, Retrofit, AndroidSDK, OkHttp |
-| 🚧 [Cognix]((https://github.com/minicla03/Cognix))(https://github.com/minicla03/Cognix) *(Update in Progress)* | Sistema di Question Answering multilingua su PDF usando LLM | Python, LangChain, Ollama, ChromaDB |
+| 🚧 [Cognix](https://github.com/minicla03/Cognix) *(Update in Progress)* | Sistema di Question Answering multilingua su PDF usando LLM | Python, LangChain, Ollama, ChromaDB |
 | [SmartMobilityAnalysis](https://github.com/minicla03/SmartMobilityAnalysis) | Notebook per l’analisi della mobilità urbana: dataset, mappe e modelli | Python, Pandas, geopandas |
 | [JsonClock](https://github.com/minicla03/JsonClock) | Widget Android personalizzabile con orologio, data e festività da sorgente JSON | Kotlin, Retrofit, AlarmManager |
 | 🚧 [CashMate](https://github.com/minicla03/CashMate) *(Work in Progress)* | App Android per monitorare spese personali, con analisi automatica dei dati tramite OCR  | Kotlin, Jetpack Compose, Hilt, Clean Architecture, Python, OCR, ML |
