@@ -38,6 +38,11 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=minicla03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=minicla03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=minicla03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📫 Contatti
 
 - ✉️ Email: [mininnoclaudio@gmail.com](mailto:mininnoclaudio@gmail.com)
