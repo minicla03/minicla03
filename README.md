@@ -1,20 +1,20 @@
 # 👋 Ciao, sono Claudio Mininno
 
-🎓 Studente di Ingegneria Informatica all'Unisannio  
+🎓 Laureato in Ingegneria Informatica presso l'Unisannio | Attualmente iscritto alla magistrale in Data Engineering and Analytics presso Unimore  
 💻 Appassionato di sviluppo software, applicazioni intelligenti e analisi dei dati
 
 ---
 
 ## 📌 Progetti in evidenza
 
-| 📦 Progetto | 📄 Descrizione | 🧪 Tecnologie |
-|------------|----------------|---------------|
-| [CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE) | WebApp per la gestione della convivenza (turni, spese, messaggi, votazioni) | HTML, JS, Java, Spring Boot, MongoDB |
-| [CoinquyLife](https://github.com/minicla03/CoinquyLife) | App Android per la gestione della convivenza (turni, spese, messaggi, votazioni) | Java, Retrofit, AndroidSDK, OkHttp |
-| 🚧 [Cognix](https://github.com/minicla03/Cognix) *(Update in Progress)* | Sistema di Question Answering multilingua su PDF usando LLM | Python, LangChain, Ollama, ChromaDB |
-| [SmartMobilityAnalysis](https://github.com/minicla03/SmartMobilityAnalysis) | Notebook per l’analisi della mobilità urbana: dataset, mappe e modelli | Python, Pandas, geopandas |
-| [JsonClock](https://github.com/minicla03/JsonClock) | Widget Android personalizzabile con orologio, data e festività da sorgente JSON | Kotlin, Retrofit, AlarmManager |
-| 🚧 [CashMate](https://github.com/minicla03/CashMate) *(Work in Progress)* | App Android per monitorare spese personali, con analisi automatica dei dati tramite OCR  | Kotlin, Jetpack Compose, Hilt, Clean Architecture, Python, OCR, ML |
+| 📦 Progetto | 📄 Descrizione | 🧪 Tecnologie | 🔗 Stato |
+|------------|----------------|---------------|----------------|
+| [CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE) | WebApp per gestire turni, spese, messaggi e votazioni tra coinquilini | HTML, JS, Java, Spring Boot, MongoDB | 🟢 Completato |
+| [CoinquyLife](https://github.com/minicla03/CoinquyLife) | App Android per la gestione della convivenza con notifiche e turni | Java, Retrofit, AndroidSDK, OkHttp | 🟢 Completato |
+| 🚧 [Cognix](https://github.com/minicla03/Cognix) | Sistema multilingua di Question Answering su PDF con LLM | Python, LangChain, Ollama, ChromaDB | 🚧 In sviluppo |
+| [SmartMobilityAnalysis](https://github.com/minicla03/SmartMobilityAnalysis) | Notebook per analisi della mobilità urbana: mappe, dataset e modelli predittivi | Python, Pandas, geopandas | 🟢 Completato |
+| [JsonClock](https://github.com/minicla03/JsonClock) | Widget Android personalizzabile con orologio, data e festività da JSON | Kotlin, Retrofit, AlarmManager | 🟢 Completato |
+| 🚧 [CashMate](https://github.com/minicla03/CashMate) | App Android per monitorare spese personali con OCR e analisi automatica | Kotlin, Jetpack Compose, Hilt, Clean Architecture, Python, OCR, ML | 🚧 In sviluppo |
 
 ---
 
