@@ -2,7 +2,7 @@
 
 # 👋 Ciao, sono Claudio Mininno
 
-### 🎓 Data Engineering Student @ Unimore | 💻 Software Engineer
+### 🎓 Artificial Intelligence Student @ Unimore | 💻 Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-mininno-82449a381/?skipRedirect=true)
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mininnoclaudio@gmail.com)
@@ -19,7 +19,7 @@ class ClaudioMininno:
         self.name = "Claudio Mininno"
         self.education = [
             "B.Sc. Computer Engineering @ Unisannio",  # Laurea Triennale
-            "M.Sc. Data Engineering @ Unimore"         # In corso
+            "M.Sc. Artificial Intelligence Engineering @ Unimore"         # In corso
         ]
         self.passion = ["Software Architecture", "Big Data", "Mobile Dev"]
         self.current_focus = "Building scalable AI-driven apps"
