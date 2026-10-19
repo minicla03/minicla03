@@ -4,6 +4,9 @@
 
 ### 🎓 Artificial Intelligence Student @ Unimore | 💻 Software Engineer
 
+</div>
+
+
 ## 👨‍💻 About Me
 
 ```python
