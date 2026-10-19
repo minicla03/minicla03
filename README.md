@@ -73,6 +73,7 @@ class ClaudioMininno:
 | **[Cognix](https://github.com/minicla03/Cognix)** | **RAG System**: Multilingual chatbot for PDF Q&A. | `LangChain` `Python` `ChromaDB` `HuggingFace` | 🚧 Dev |
 | **[SmartMobility](https://github.com/minicla03/SmartMobilityAnalysis)** | Geospatial and predictive analysis of urban mobility. | `Python` `Sklearn` `Jupyter` | 🟢 Live |
 | **[Surgical-Copilot](https://github.com/minicla03/Surgical-copilot)** | Research-oriented project exploring real-time surgical computer vision, with a focus on blood segmentation, temporal consistency and efficient inference. | `Python` `Pytorch` `MONAI` | 🟢 Live |
+| **[Battle Night](https://github.com/minicla03/Battle-Night)** | Live web application serving as a real-time management dashboard for interactive game show events | `NodeJS` `Typescript` |🟢 Live  |
 
 ---
 
@@ -82,10 +83,10 @@ class ClaudioMininno:
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=minicla03&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=minicla03&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-  <sub>Last update: 2025 • Made with ❤️ by Claudio Mininno</sub>
+  <sub>Last update: 2026 • Made with ❤️ by Claudio Mininno</sub>
 </div>
