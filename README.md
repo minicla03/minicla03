@@ -1,15 +1,8 @@
 <div align="center">
 
-# 👋 Ciao, sono Claudio Mininno
+# 👋 Hi, I'm Claudio Mininno
 
 ### 🎓 Artificial Intelligence Student @ Unimore | 💻 Software Engineer
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-mininno-82449a381/?skipRedirect=true)
-[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mininnoclaudio@gmail.com)
-
----
-
-</div>
 
 ## 👨‍💻 About Me
 
@@ -68,15 +61,17 @@ class ClaudioMininno:
 
 ---
 
-## 📌 Progetti in Evidenza
+## 📌 Featured Projects
 
-| 📦 Progetto | 📄 Cosa fa | 🧪 Stack Tecnologico | 🔗 Stato |
-|:-----------|:-----------|:---------------------|:--------:|
-| **[CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE)** | Gestione completa coinquilini: turni, spese e votazioni. | `Spring Boot` `MongoDB` `Java` | 🟢 Live |
-| **[CoinquyLife App](https://github.com/minicla03/CoinquyLife)** | Companion App Android per la gestione della convivenza. | `Android SDK` `Retrofit` `Java` | 🟢 Live |
-| **[Cognix](https://github.com/minicla03/Cognix)** | **RAG System**: Chatbot multilingua per Q&A su PDF. | `LangChain` `Python` `ChromaDB` `HuggingFace`| 🚧 Dev |
-| **[SmartMobility](https://github.com/minicla03/SmartMobilityAnalysis)** | Analisi geospaziale e predittiva della mobilità urbana. | `Pyhton` `Sklearn` `Jupyter` | 🟢 Live |
-| **[CashMate](https://github.com/minicla03/CashMate)** | Finance Tracker con **OCR** per scontrini e analisi ML. | `Kotlin` `Compose` `OCR` `Python` | 🚧 Dev |
+| 📦 Project | 📄 Description | 🧪 Tech Stack | 🔗 Status |
+| --- | --- | --- | --- |
+| **[CoinquyLifeSE](https://github.com/minicla03/CoinquyLifeSE)** | Complete roommate management: chores, expenses, and voting. | `Spring Boot` `MongoDB` `Java` | 🟢 Live |
+| **[CoinquyLife App](https://github.com/minicla03/CoinquyLife)** | Android Companion App for co-living management. | `Android SDK` `Retrofit` `Java` | 🟢 Live |
+| **[Cognix](https://github.com/minicla03/Cognix)** | **RAG System**: Multilingual chatbot for PDF Q&A. | `LangChain` `Python` `ChromaDB` `HuggingFace` | 🚧 Dev |
+| **[SmartMobility](https://github.com/minicla03/SmartMobilityAnalysis)** | Geospatial and predictive analysis of urban mobility. | `Python` `Sklearn` `Jupyter` | 🟢 Live |
+| **[Surgical-Copilot](https://github.com/minicla03/Surgical-copilot)** | Research-oriented project exploring real-time surgical computer vision, with a focus on blood segmentation, temporal consistency and efficient inference. | `Python` `Pytorch` `MONAI` | 🟢 Live |
+
+---
 
 ---
 
